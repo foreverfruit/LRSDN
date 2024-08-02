@@ -11,12 +11,14 @@ the official repository of the paper "A Lightweight CNN Based on Axial Depthwise
 
 
 
-**now, you can download RSHD dataset**:
+**Now, you can download RSHD dataset**:
 
-link：https://pan.baidu.com/s/1e1YlHJtFtp7K562dJ5uANg?pwd=w5ra 
-code：w5ra
+Baidu Link：https://pan.baidu.com/s/1e1YlHJtFtp7K562dJ5uANg?pwd=w5ra 
+Code：w5ra
 
 
+
+GoogleDrive：https://drive.google.com/file/d/1ueyfp6RTY4FhsgDowyeG35yFMoHUwwac/view?usp=sharing
 
 The source code of LRSDN will be released as soon as possible.
 
